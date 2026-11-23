@@ -2,7 +2,7 @@
 
 **Date de création** : 22/12/2021 - F. SCHOSSIG
 
-**Date de modification** : 30/10/2026 - [Ton NOM Prénom]
+**Date de modification** : 30/10/2026 - GRASS Léo
 
 **Sommaire :**
 
@@ -51,30 +51,25 @@ La palette de couleurs principale est déclinée comme suit :
   - *Bouton secondaire* : Fond transparent avec bordure cyan `#38BDF8`.
   - *Effets survol (Hover)* : Légère variation de luminosité et transition fluide (`transition: all 0.3s ease`).
 
-## 4. Maquettage responsive de chaque page
+- ## 4. Maquettage responsive du site (Architecture One-Page)
 
-...
+  Lien vers le projet Figma : [Consulter la maquette sur Figma](https://www.figma.com/make/HJfD7oyCAKJSqY9mSZacOg/Sans-titre--copie-?code-node-id=0-6&p=f&t=sAi2nVeUzIo9vDTq-0&fullscreen=1)
 
-### 4.1. Page d'accueil (`index.html`)
+  Le portfolio est structuré sous la forme d'une page unique (`index.html`) regroupant l'ensemble des sections (Accueil, Parcours & Compétences, Projets, Veille technologique et Contact) accessibles par défilement fluide (ancres)[cite: 23, 30].
 
-- **Version Desktop** : `...`
-- **Version Mobile** : `...`
+  ### 4.1. Vue globale — Version Desktop (`index.html`)
 
-### 4.2. Page Parcours & Compétences (`parcours.html`)
+  ![Maquette Version Desktop](medias/maquette-desktop.png)
 
-- **Version Desktop** : `...`
-- **Version Mobile** : `...`
+  ### 4.2. Vue globale — Version Mobile (`index.html`)
 
-### 4.3. Page Projets (`projets.html`)
-
-- **Version Desktop** : `...`
-- **Version Mobile** : `...`
+  ![Maquette Version Mobile](medias/maquette-mobile.png)
 
 ## 5. Logique de navigation dans le site
 
 La navigation globale repose sur une barre de menu fixe (header sticked) accessible sur l'ensemble des pages :
 
 1. **Menu principal (Desktop)** : Liens horizontaux vers `Accueil`, `Parcours`, `Projets`, `Veille`, `Contact`.
-2. **Menu mobile (Hamburger)** : Menu escamotable déclenché en JavaScript pour les écrans < 768px.
+2. **Menu mobile (Hamburger)** : Menu escamotable déclenché en JavaScript pour les écrans < 768px. 
 3. **Sélecteur de langue** : Un bouton de bascule `FR / EN` présent dans le header pour la gestion du bilinguisme.
 4. **Pied de page (Footer)** : Liens vers les mentions légales, le dépôt GitHub du projet et les réseaux professionnels (LinkedIn).
