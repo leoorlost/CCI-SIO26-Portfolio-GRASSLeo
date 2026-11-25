@@ -95,5 +95,4 @@ La navigation globale repose sur une barre de menu fixe (header sticked) accessi
 
 1. **Menu principal (Desktop)** : Liens horizontaux vers `Accueil`, `Parcours`, `Projets`, `Veille`, `Contact`.
 2. **Menu mobile (Hamburger)** : Menu escamotable déclenché en JavaScript pour les écrans < 768px. 
-3. **Sélecteur de langue** : Un bouton de bascule `FR / EN` présent dans le header pour la gestion du bilinguisme.
 4. **Pied de page (Footer)** : Liens vers les mentions légales, le dépôt GitHub du projet et les réseaux professionnels (LinkedIn).
