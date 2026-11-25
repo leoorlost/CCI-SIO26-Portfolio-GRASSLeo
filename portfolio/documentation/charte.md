@@ -45,7 +45,9 @@ La palette de couleurs principale est déclinée comme suit :
 ### 3.3. Logo, icônes et boutons
 
 - **Logo** : Un monotype ou initiales stylisées `[Initiales]` intégrées dans la barre de navigation.
+
 - **Icônes** : Utilisation de la bibliothèque SVG *Lucide Icons* ou *FontAwesome* (ex: icône GitHub, LinkedIn, messagerie, terminal).
+
 - **Boutons** :
   - *Bouton principal* : Fond cyan `#38BDF8`, texte sombre, coins légèrement arrondis (`border-radius: 6px`).
   - *Bouton secondaire* : Fond transparent avec bordure cyan `#38BDF8`.
@@ -53,17 +55,21 @@ La palette de couleurs principale est déclinée comme suit :
 
 - ## 4. Maquettage responsive du site (Architecture One-Page)
 
-  Lien vers le projet Figma : [Consulter la maquette sur Figma](https://www.figma.com/make/HJfD7oyCAKJSqY9mSZacOg/Sans-titre--copie-?code-node-id=0-6&p=f&t=sAi2nVeUzIo9vDTq-0&fullscreen=1)
+  Lien vers le projet Figma : [Consulter la maquette sur Figma](https://www.figma.com/make/HJfD7oyCAKJSqY9mSZacOg/Portfolio-Maquettage?code-node-id=0-6&p=f&t=cyR3FjnHqyG18H65-0&fullscreen=1)
 
   Le portfolio est structuré sous la forme d'une page unique (`index.html`) regroupant l'ensemble des sections (Accueil, Parcours & Compétences, Projets, Veille technologique et Contact) accessibles par défilement fluide (ancres)[cite: 23, 30].
 
-  ### 4.1. Vue globale — Version Desktop (`index.html`)
+  ### 4.1. Vue globale — Version Desktop/Mobile(
 
-  ![Maquette Version Desktop](medias/maquette-desktop.png)
+  Page Atellier3 :
 
-  ### 4.2. Vue globale — Version Mobile (`index.html`)
+  ![](medias/Page-parcours.png)
 
-  ![Maquette Version Mobile](medias/maquette-mobile.png)
+  Page d'acceuil:
+  
+  ![](medias/Page-d'accueil.png)
+  
+  Page Mention:
 
 ## 5. Logique de navigation dans le site
 

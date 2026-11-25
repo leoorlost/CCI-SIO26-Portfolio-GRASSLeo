@@ -22,8 +22,13 @@ Sommaire :
 
 ### 1.1. En-tête et slogan
 - Texte principal : Bienvenue sur mon portfolio professionnel. Je suis étudiant en BTS SIO (Services Informatiques aux Organisations) option SISR.
+
 - Sous-titre : Retrouvez ici l'ensemble de mes projets, de mon parcours et de ma veille technologique.
-- Illustration associée (documentation/medias/accueil.png) : Image de présentation ou avatar du développeur.
+
+- Illustration associée : Image de présentation ou avatar du développeur.
+  
+  ![](medias/Page-d'accueil.png)
+  
   - Description (balise alt) : Illustration représentant un espace de travail informatique et de développement moderne.
 
 ### 1.2. Présentation synthétique
@@ -114,8 +119,8 @@ Sommaire :
 - Contact : mail (pro) : leo.grass@ccicampus.fr mail (perso) : leograss8@gmail.com
 
 ### 6.2. Hébergeur du site
-- Hébergeur : Nom de l'hébergeur / Serveur de démonstration
-- Adresse de l'hébergeur : Adresse physique ou URL de l'hébergeur
+- Hébergeur : ...
+- Adresse de l'hébergeur : ....
 
 ### 6.3. Propriété intellectuelle et données personnelles
 - Droits d'auteur : L'ensemble des contenus présents sur ce site (textes, images, projets) est protégé par le droit d'auteur.
