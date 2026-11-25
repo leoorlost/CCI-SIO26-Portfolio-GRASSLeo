@@ -70,6 +70,24 @@ La palette de couleurs principale est déclinée comme suit :
   ![](medias/Page-d'accueil.png)
   
   Page Mention:
+  
+  ![](medias/Page-Mentions.png)
+  
+  Page Projets:
+  
+  ![](medias/Page-projets.png)
+  
+  Page Parcours:
+  
+  ![](medias/Page-parcours.png)
+  
+  Page Contact:
+  
+  ![](medias/Page-Contact.png)
+  
+  Page Veille:
+  
+  ![](medias/Page-Veille.png)
 
 ## 5. Logique de navigation dans le site
 
