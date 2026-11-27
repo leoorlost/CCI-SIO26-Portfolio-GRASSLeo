@@ -68,7 +68,6 @@ CCI-SIO26-Portfolio-GRASSLeo/
 │   ├── parcours.html         # Page formations et expériences
 │   ├── projets.html          # Page liste des projets
 │   ├── atelier3.html         # Page dédiée à l'Atelier 3
-│   ├── atelier4.html         # Page dédiée à l'Atelier 4
 │   ├── veille.html           # Page veille technologique
 │   └── mentions-legales.html # Page mentions légales
 └── README.md                 # Présentation générale du dépôt GitHub
