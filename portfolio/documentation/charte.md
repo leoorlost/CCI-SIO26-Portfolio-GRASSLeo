@@ -6,13 +6,11 @@ subject: Atelier de professionnalisation 1 - BTS SIO
 header: Dossier d'étude - Charte graphique
 footer: ${title} -${author} - Page ${pageNo} /${totalPages}
 date: 2026-11-27
+
 ---
 
 # Charte graphique du Portfolio
 
-**Date de création** : 22/12/2021 - F. SCHOSSIG
-
-**Date de modification** : 25/11/2026 - GRASS Léo
 **Version** : 1.1  
 **Auteur** : Léo GRASS  
 **Date de création** : 22/12/2021 (Modèle F. SCHOSSIG)  
@@ -73,13 +71,9 @@ La palette de couleurs principale respecte les contrastes nécessaires à l'acce
 
 ## 4. Maquettage responsive du site
 
-Lien vers le projet Figma (Wireframes et Maquettes) : [Consulter la maquette sur Figma](https://www.figma.com/make/HJfD7oyCAKJSqY9mSZacOg/Portfolio-Maquettage?code-node-id=0-6&p=f&t=cyR3FjnHqyG18H65-0&fullscreen=1)
+Lien vers le projet Figma (Wireframes et Maquettes) : [Consulter la maquette sur Figma](https://www.figma.com/make/hBjc4mK2WWdRiYtkiCig6p/Sans-titre?code-node-id=0-6&p=f&t=APTp6L4z89ahYc9c-0&fullscreen=1)
 
 Le portfolio est conçu selon une architecture multi-pages cohérente (6 pages HTML principales) regroupant l'Accueil, le Parcours, les Projets, les pages dédiées aux Ateliers 3 et 4, la Veille technologique et les Mentions légales. L'interface est pensée *Mobile-First* avec un point de rupture principal à `768px` (tablette/mobile) et `1024px` (ordinateur).
-
-### 4.1. Wireframes et zoning (Structure)
-
-![Wireframe structurel du portfolio](medias/Wireframe.jpg)
 
 <div style="page-break-after:always"></div>
 
@@ -121,9 +115,16 @@ Le portfolio est conçu selon une architecture multi-pages cohérente (6 pages H
 
 La navigation globale repose sur une barre de menu fixe (*header sticky*) accessible en permanence en haut de l'écran sur l'ensemble des pages :
 
+
+
 1. **Menu principal (Desktop)** : Liens horizontaux vers `Accueil`, `Parcours`, `Projets`, `Veille`, `Contact`.
+
 2. **Menu mobile (Hamburger)** : Menu escamotable déclenché en JavaScript pour les écrans < 768px. 
-4. **Pied de page (Footer)** : Liens vers les mentions légales, le dépôt GitHub du projet et les réseaux professionnels (LinkedIn).
-1. **Menu principal (Desktop)** : Liens horizontaux vers `Accueil`, `Parcours`, `Projets` (avec sous-menu déroulant vers `Atelier 3` et `Atelier 4`), `Veille` et `Contact`.
-2. **Menu mobile (Hamburger)** : Pour les écrans inférieurs à `768px`, le menu se replie sous forme d'icône hamburger et s'ouvre en panneau vertical via JavaScript.
-3. **Parcours utilisateur & Pied de page (Footer)** : Chaque page oriente le visiteur vers l'étape suivante grâce à des boutons d'appel à l'action clairs. Le pied de page rappelle le plan du site et propose les liens vers les mentions légales, le dépôt GitHub et le profil LinkedIn.
+
+3. **Pied de page (Footer)** : Liens vers les mentions légales, le dépôt GitHub du projet et les réseaux professionnels (LinkedIn).
+
+4. **Menu principal (Desktop)** : Liens horizontaux vers `Accueil`, `Parcours`, `Projets` (avec sous-menu déroulant vers `Atelier 3` et `Atelier 4`), `Veille` et `Contact`.
+
+5. **Menu mobile (Hamburger)** : Pour les écrans inférieurs à `768px`, le menu se replie sous forme d'icône hamburger et s'ouvre en panneau vertical via JavaScript.
+
+6. **Parcours utilisateur & Pied de page (Footer)** : Chaque page oriente le visiteur vers l'étape suivante grâce à des boutons d'appel à l'action clairs. Le pied de page rappelle le plan du site et propose les liens vers les mentions légales, le dépôt GitHub et le profil LinkedIn.
