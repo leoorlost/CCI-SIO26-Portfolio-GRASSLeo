@@ -121,12 +121,9 @@ Le portfolio est conçu selon une architecture multi-pages cohérente (6 pages H
 
 La navigation globale repose sur une barre de menu fixe (*header sticky*) accessible en permanence en haut de l'écran sur l'ensemble des pages :
 
-<<<<<<< HEAD
 1. **Menu principal (Desktop)** : Liens horizontaux vers `Accueil`, `Parcours`, `Projets`, `Veille`, `Contact`.
 2. **Menu mobile (Hamburger)** : Menu escamotable déclenché en JavaScript pour les écrans < 768px. 
 4. **Pied de page (Footer)** : Liens vers les mentions légales, le dépôt GitHub du projet et les réseaux professionnels (LinkedIn).
-=======
 1. **Menu principal (Desktop)** : Liens horizontaux vers `Accueil`, `Parcours`, `Projets` (avec sous-menu déroulant vers `Atelier 3` et `Atelier 4`), `Veille` et `Contact`.
 2. **Menu mobile (Hamburger)** : Pour les écrans inférieurs à `768px`, le menu se replie sous forme d'icône hamburger et s'ouvre en panneau vertical via JavaScript.
 3. **Parcours utilisateur & Pied de page (Footer)** : Chaque page oriente le visiteur vers l'étape suivante grâce à des boutons d'appel à l'action clairs. Le pied de page rappelle le plan du site et propose les liens vers les mentions légales, le dépôt GitHub et le profil LinkedIn.
->>>>>>> e7e76a7 (Version final des fichier en .md)
